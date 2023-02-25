@@ -1,0 +1,1 @@
+this is a test to see how git is tracking files in the staging area
