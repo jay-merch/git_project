@@ -1,1 +1,7 @@
 
+cker
+terraform
+git
+sonacube
+ansible
+jenkins
